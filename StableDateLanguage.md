@@ -1,4 +1,4 @@
-# StableDate Docs  
+# StableDateLanguage (SDL)    
 
 Welcome to 3rd Generation Dating (3GD). 
 The best way for people to start using StableDate, is visiting [StableDate.com](StableDate.com).  
