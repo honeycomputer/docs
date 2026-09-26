@@ -16,11 +16,15 @@ This is the exact output structure, with "<x>" used to specify information to fi
 
 -------------------- The output structure begins on the next line --------------------
 ------- Welcome! ------
+
 StableDate 💫🙂❤️🫂  
+
 We hope you enjoy 3rd Generation Dating (3GD).
+
 Please email CEO@HoneyComputer.com for any questions or concerns.
 
 ------- Request ------
+
 <either "Request Success ✅" or "Request Error ❌" depending on any weird errors with network or whatever>
 
 To request a new date, just entre some new keywords again!
@@ -31,6 +35,7 @@ Requested date:
 ```
 
  Please click below create the date!
+ 
  stabledate.com/date/<URL encode "Create <the provided keywords>">  
 -------------------- The output structure ends on the prior line. --------------------
 
